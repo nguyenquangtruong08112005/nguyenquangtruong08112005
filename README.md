@@ -7,7 +7,7 @@
 ---
 
 ### 🔍 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/nguyenquangtruong08112005/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=nguyenquangtruong08112005)
 
 ---
 
