@@ -1,44 +1,71 @@
-### 👋 Hello there! I'm Quang Trường
-
-🎓 Currently studying at **Ton Duc Thang University**  
-🔐 Passionate about **Cybersecurity**, **Web Development**, and **Mobile Apps**  
-🛠️ Always curious and constantly learning new things to improve myself  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=440&lines=Hello+World!+I'm+Quang+Trường" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔍 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=nguyenquangtruong08112005)
+### 👋 About Me
+Hi, I'm **Quang Trường**, a passionate student at **Ton Duc Thang University** diving into the world of **Cybersecurity**, **Web Development**, and **Mobile Apps**. I love building secure, user-friendly applications and exploring new technologies to level up my skills! 🚀
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
 ---
 
 ### 📊 GitHub Stats
-![QuangTruong's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenquangtruong08112005&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenquangtruong08112005&show_icons=true&theme=dracula&hide_border=true" alt="QuangTruong's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquangtruong08112005&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 🏆 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquangtruong08112005&layout=compact&theme=radical)
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nguyenquangtruong08112005&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
-### 👀 What I’m Into:
-- 🛡️ Exploring system and application **security**
-- 🌐 Building modern, responsive **web applications**
-- 📱 Creating intuitive and functional **mobile experiences**
+### 🚀 Featured Projects
+- **[Project Name 1](https://github.com/nguyenquangtruong08112005/project1)**: A cybersecurity tool for analyzing network traffic. Built with Python and Scapy.
+- **[Project Name 2](https://github.com/nguyenquangtruong08112005/project2)**: A responsive web app using React and Node.js for task management.
+- **[Project Name 3](https://github.com/nguyenquangtruong08112005/project3)**: A mobile app for habit tracking, developed with Flutter.
 
 ---
 
-### 📫 Let's Connect!
-- Email: [nguyenquangtruong08112005@gmail.com](mailto:nguyenquangtruong08112005@gmail.com)
-- GitHub: [@nguyenquangtruong08112005](https://github.com/nguyenquangtruong08112005)
+### 📈 Recent Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenquangtruong08112005&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:nguyenquangtruong08112005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
+  <a href="https://github.com/nguyenquangtruong08112005"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+</p>
 
 ---
 
 ### 😄 Fun Facts
-- 🧠 Always chasing bugs, sometimes catching them 🐞  
-- 🎮 A gamer at heart and a coder by choice  
-- ⚡ I like to say: *No fact = No limit =))*
+- 🐞 I hunt bugs in code and systems for fun!
+- 🎮 Avid gamer, especially strategy and RPG games.
+- ⚡ Motto: *Code hard, debug smart!*
 
 ---
 
-Thanks for visiting! Have a great day and happy coding! 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nguyenquangtruong08112005&color=brightgreen" alt="Visitor Count" />
+</p>
+
+Thanks for stopping by! Let's create something amazing together! 🌟
