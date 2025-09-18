@@ -9,6 +9,23 @@ Hi, I'm **Quang Trường**, a passionate student at **Ton Duc Thang University*
 
 ---
 
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+
+---
+
+### 🚀 Featured Projects
+- **[Project Name 1](https://github.com/nguyenquangtruong08112005/project1)**: A cybersecurity tool for analyzing network traffic. Built with Python and Scapy.
+- **[Project Name 2](https://github.com/nguyenquangtruong08112005/project2)**: A responsive web app using React and Node.js for task management.
+- **[Project Name 3](https://github.com/nguyenquangtruong08112005/project3)**: A mobile app for habit tracking, developed with Flutter.
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenquangtruong08112005&show_icons=true&theme=dracula&hide_border=true" alt="QuangTruong's GitHub Stats" />
