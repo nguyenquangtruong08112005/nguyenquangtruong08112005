@@ -19,11 +19,6 @@ Hi, I'm **Quang Trường**, a passionate student at **Ton Duc Thang University*
 
 ---
 
-### 🚀 Featured Projects
-- **[Project Name 1](https://github.com/nguyenquangtruong08112005/project1)**: A cybersecurity tool for analyzing network traffic. Built with Python and Scapy.
-- **[Project Name 2](https://github.com/nguyenquangtruong08112005/project2)**: A responsive web app using React and Node.js for task management.
-- **[Project Name 3](https://github.com/nguyenquangtruong08112005/project3)**: A mobile app for habit tracking, developed with Flutter.
-
 ---
 
 ### 📊 GitHub Stats
