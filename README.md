@@ -48,7 +48,9 @@ Hi, I'm **Quang Trường**, a passionate student at **Ton Duc Thang University*
   <img src="https://komarev.com/ghpvc/?username=nguyenquangtruong08112005&color=brightgreen" alt="Visitor Count" />
 </p>
 
+---
 
+### My GPA
 <img width="1867" height="158" alt="image" src="https://github.com/user-attachments/assets/efaf4f67-f4eb-4e0e-8695-f7590f45b350" />
 
 Thanks for stopping by! Let's create something amazing together! 🌟
