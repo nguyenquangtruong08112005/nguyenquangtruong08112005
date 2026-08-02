@@ -19,16 +19,6 @@ Hi, I'm **Quang Trường**, a passionate student at **Ton Duc Thang University*
 
 ---
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenquangtruong08112005&show_icons=true&theme=dracula&hide_border=true" alt="QuangTruong's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenquangtruong08112005&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="center">
   <a href="mailto:nguyenquangtruong08112005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
