@@ -1,43 +1,57 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=440&lines=Hello+World!+I'm+Quang+Trường" alt="Typing SVG" />
-</p>
+# Nguyen Quang Truong
 
----
+**Backend Developer Intern | Software Engineering Student**
 
-### 👋 About Me
-Hi, I'm **Quang Trường**, a passionate student at **Ton Duc Thang University** diving into the world of **Cybersecurity**, **Web Development**, and **Mobile Apps**. I love building secure, user-friendly applications and exploring new technologies to level up my skills! 🚀
+Final-year Software Engineering student at Ton Duc Thang University with hands-on experience building backend services for ticketing and real-time communication systems. I focus on API design, data consistency, authentication, asynchronous processing, and cloud-backed delivery.
 
----
+I have completed my taught coursework and am available for a full-time internship from August 2026 for three to six months.
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+[LinkedIn](https://www.linkedin.com/in/quangtruong0811/) | [Email](mailto:nguyenquangtruong08112005@gmail.com)
 
----
+## Featured Projects
 
-### 📫 Connect with Me
-<p align="center">
-  <a href="mailto:nguyenquangtruong08112005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
-  <a href="https://github.com/nguyenquangtruong08112005"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
-</p>
+### Eventing - Multi-platform Event Ticketing Platform
 
----
+A ticketing platform for attendees and organizers across web and Android clients.
 
-### 😄 Fun Facts
-- 🐞 I hunt bugs in code and systems for fun!
-- 🎮 Avid gamer, especially strategy and RPG games.
-- ⚡ Motto: *Code hard, debug smart!*
+- Implemented PostgreSQL checkout that locks inventory and creates orders, tickets, discounts, attendee answers, and payment state within one transaction.
+- Built authenticated idempotency with replay and conflict detection, plus Elasticsearch synchronization through a transactional outbox with retry and recovery tooling.
+- Implemented rotating sessions, CSRF validation, role-based access control, organizer permissions, and resource-ownership checks.
+- Configured Docker delivery through GitHub Actions, AWS ECR/EC2/SSM, Terraform, Ansible, and Cloudflare.
 
----
+**Stack:** Node.js, Express, PostgreSQL, Redis, Elasticsearch, Next.js, Kotlin, Docker, AWS
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nguyenquangtruong08112005&color=brightgreen" alt="Visitor Count" />
-</p>
+[Repository](https://github.com/nguyenquangtruong08112005/Eventing-Portfolio) | [Live Demo](https://eventing.moteo.fun)
 
----
+### Moteo Chat - Real-time Chat and Video Call Platform
 
-Thanks for stopping by! Let's create something amazing together! 🌟
+A communication platform supporting direct/group messaging and audio/video calls.
+
+- Built seven independently runnable Node.js services for authentication, users, messaging, groups, calls, assets, and the Socket.IO gateway.
+- Implemented persisted messaging with MongoDB history, Redis/Socket.IO delivery, seen states, revocation, search, attachments, and RabbitMQ group fan-out.
+- Delivered rotating sessions, email verification, password recovery, TOTP MFA, and PIN-protected account changes.
+- Validated 219 passing Jest/Vitest unit and component tests across the backend services and React client.
+
+**Stack:** React, TypeScript, Node.js, Express, Socket.IO, WebRTC, MongoDB, Prisma, Redis, RabbitMQ, Docker, Nginx
+
+[Repository](https://github.com/nguyenquangtruong08112005/moteo-chat) | [Video Demo](https://drive.google.com/drive/folders/17I_Spd6XXIROV2VkQmyBjEnEmmJF-fnq?usp=sharing)
+
+## Technical Skills
+
+- **Languages:** JavaScript, TypeScript, Python, SQL, Java
+- **Backend:** Node.js, Express, REST APIs, Socket.IO, JWT, OAuth
+- **Data and messaging:** PostgreSQL, MongoDB, Prisma, Redis, RabbitMQ, Elasticsearch
+- **Cloud and delivery:** Docker, Nginx, AWS, GitHub Actions, Terraform, Ansible
+- **Developer tools:** Git, Postman, Swagger/OpenAPI, AI-assisted development with manual review and test/build validation
+
+## Education and Credentials
+
+- **Ton Duc Thang University** - Software Engineering, 2023 to expected 2027; GPA: 8.62/10
+- **Aptis ESOL** - CEFR B2 Overall, 2024
+- **Agile Development and Scrum Framework Course** - Techbase Viet Nam, May 2025
+
+## Availability
+
+- Available full-time from August 2026 for a three- or six-month internship
+- Based in Tay Ninh and open to relocating to Ho Chi Minh City
+- Interested primarily in Backend Developer Intern roles, with Full-stack Developer Intern as a secondary direction
