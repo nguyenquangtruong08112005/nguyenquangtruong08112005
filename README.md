@@ -36,6 +36,20 @@ A communication platform supporting direct/group messaging and audio/video calls
 
 [Repository](https://github.com/nguyenquangtruong08112005/moteo-chat) | [Video Demo](https://drive.google.com/drive/folders/17I_Spd6XXIROV2VkQmyBjEnEmmJF-fnq?usp=sharing)
 
+## More Projects
+
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [Product Price Crawler](https://github.com/nguyenquangtruong08112005/product-price-crawl) | Desktop crawler with HTTP/browser fallbacks, structured price extraction, confidence signals, and Excel export. | Python, Playwright, CustomTkinter |
+| [TDTU Schedule Crawler](https://github.com/nguyenquangtruong08112005/Schedule-Crawler-TDTU) | CLI that manages authenticated sessions, retrieves university schedules, exports data, and tests browser flows. | Node.js, Axios, Cheerio, Playwright |
+| [Pacman AI](https://github.com/nguyenquangtruong08112005/Pacman-AI-2025) | Pac-Man game with A* pathfinding, ghost avoidance, rotating mazes, experiments, and a visual map editor. | Python, Pygame, A*, BFS |
+
+## Selected Contributions
+
+- [DevOps Final Project](https://github.com/DinhQuocCuong28664/DevOps_Final_Project/commits?author=nguyenquangtruong08112005) - contributed CI linting, a CD pipeline, Docker fixes, and Kubernetes ingress with HTTPS.
+- [Final Design Patterns](https://github.com/DinhQuocCuong28664/Final_Design_Patterns/commits?author=nguyenquangtruong08112005) - initialized the Express application and order controller, then implemented observer-based notification handling and tests.
+- [Smartphone Garden](https://github.com/ngphuctoan/softeng-finalterm-smartphone-garden/commits?author=nguyenquangtruong08112005) - contributed user and records administration, Prisma-backed data changes, checkout views, and VNPay-related flows.
+
 ## Technical Skills
 
 - **Languages:** JavaScript, TypeScript, Python, SQL, Java
