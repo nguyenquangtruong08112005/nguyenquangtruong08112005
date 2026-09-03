@@ -36,6 +36,20 @@ A communication platform supporting direct/group messaging and audio/video calls
 
 [Repository](https://github.com/nguyenquangtruong08112005/moteo-chat) | [Video Demo](https://drive.google.com/drive/folders/17I_Spd6XXIROV2VkQmyBjEnEmmJF-fnq?usp=sharing)
 
+## Freelance & Production Work
+
+### WordPress Hosting Migration and Production Cutover
+
+A client migration from legacy hosting with WordPress Admin as the only surviving access path to a customer-controlled DirectAdmin/LiteSpeed environment.
+
+- Restored the existing WordPress site from an application-level archive, verified database/content integrity, and preserved forms, media, themes, plugins, and administrator access.
+- Diagnosed production blockers across the effective PHP runtime, upload limits, REST/permalink routing, serialized URLs, Elementor/LiteSpeed caches, DNS, and ACME certificate validation.
+- Delivered a customer-approved demo phase followed by production DNS/TLS cutover, canonical URL verification, rollback controls, and a sanitized evidence pack without publishing client identifiers or credentials.
+
+**Stack:** WordPress, PHP 8.2, MySQL, DirectAdmin, LiteSpeed, DNS, ACME/Let's Encrypt
+
+[Case Study and Runbook](https://github.com/nguyenquangtruong08112005/wordpress-directadmin-migration-runbook)
+
 ## More Projects
 
 | Project | What it demonstrates | Stack |
